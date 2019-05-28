@@ -1,0 +1,11 @@
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\bin\Debug\netcoreapp2.1\PracticaSwichU.deps.json
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\bin\Debug\netcoreapp2.1\PracticaSwichU.runtimeconfig.json
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\bin\Debug\netcoreapp2.1\PracticaSwichU.runtimeconfig.dev.json
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\bin\Debug\netcoreapp2.1\PracticaSwichU.dll
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\bin\Debug\netcoreapp2.1\PracticaSwichU.pdb
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\obj\Debug\netcoreapp2.1\PracticaSwichU.csprojAssemblyReference.cache
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\obj\Debug\netcoreapp2.1\PracticaSwichU.csproj.CoreCompileInputs.cache
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\obj\Debug\netcoreapp2.1\PracticaSwichU.AssemblyInfoInputs.cache
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\obj\Debug\netcoreapp2.1\PracticaSwichU.AssemblyInfo.cs
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\obj\Debug\netcoreapp2.1\PracticaSwichU.dll
+c:\users\raule\Source\repos\PracticaSwichU\PracticaSwichU\obj\Debug\netcoreapp2.1\PracticaSwichU.pdb
