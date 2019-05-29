@@ -21,21 +21,31 @@ namespace PracticaSwichU
             }
             else
             {
-                int seleccion = number.Next(1, 4);
-                switch (seleccion)
-                {
-                    case 1:
-                        Console.WriteLine("tu puedes hacer algo mas que eso...");
-                        break;
-                    case 2: 
-                        Console.WriteLine("Tu respuesta ha sido incorrecta.");
-                        break;
-                    default: 
-                        Console.WriteLine("intentalo de nuevo.");
-                        break;
+                int diferencia = Math.Abs(result - (ramdonNumero1 * ramdonNumero2));
+                if (diferencia == 1) {
+                    Console.WriteLine("Estuvistes cerca");
                 }
+                else if (diferencia <= 10) {
+                        Console.WriteLine("Puedes hace algo mejor");
+                }
+                else {
+                    Console.WriteLine("Demasiado lejos vuelve a intentarlo...");
+                }
+                //int seleccion = number.Next(1, 4);
+                //switch (seleccion)
+                //{
+                //    case 1:
+                //        Console.WriteLine("tu puedes hacer algo mas que eso...");
+                //        break;
+                //    case 2: 
+                //        Console.WriteLine("Tu respuesta ha sido incorrecta.");
+                //        break;
+                //    default: 
+                //        Console.WriteLine("intentalo de nuevo.");
+                //        break;
+                //}
             }
-
+            Console.Write("Presione cualquier tecla para continuar...");
             Console.ReadKey();
         }
     }

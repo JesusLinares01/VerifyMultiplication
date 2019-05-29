@@ -6,6 +6,5 @@ namespace PracticaSwichU
 {
     class optionDiferent
     {
-
     }
 }
